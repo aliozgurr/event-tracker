@@ -2,7 +2,7 @@
 
 This web application collects data from various event websites, stores it in a MySQL database, and presents it to users on a single website.
 
-<img src="https://i.ibb.co/b3DkBF6/Screenshot-2023-06-05-at-00-51-40.png"/>
+<img src="https://i.hizliresim.com/kogrv2w.png"/>
 
 ## Dependencies
 * PHP 8.1
